@@ -1,0 +1,2 @@
+# Minimal_Surfaces_Visualization_Code
+MATLAB code to accompany the technical report "Simple 3-D visualization of some common mathematical minimal surfaces using MATLAB". This code describes a simple way to create detailed and correct 3-D plots of some common minimal surfaces, including gyroid, lidinoid, Schwarz P, Schwarz D, Scherk tower, helicoid, catenoid, and Mobius strip. This code can be used, remixed, and modified as long as proper attribution is given to the authors of the technical report accompanying this code.
